@@ -531,8 +531,8 @@ button {
 
 </Sandpack>
 
-## Next Steps {/*next-steps*/}
+## Sonraki Adımlar {/*next-steps*/}
 
 Artık React kodunu yazmanın temellerini biliyorsunuz!
 
-[Tutorial](/learn/tutorial-tic-tac-toe) sayfasına giderek öğrendiklerinizi pratik edebilir ve ilk mini React uygulamanızı yapabilirsiniz.
+[Öğretici](/learn/tutorial-tic-tac-toe) sayfasına giderek öğrendiklerinizi pratik edebilir ve ilk mini React uygulamanızı yapabilirsiniz.
